@@ -12,7 +12,7 @@
  
   
 <br/><br/><br/>
-- 🔭 I’m currently working on [Something Very Cool](https://github.com/https://github.com/shivraj32644/Olx-Clone)  
+- 🔭 I’m currently working on [Something Very Cool](https://github.com/shivraj32644/Olx-Clone)  
   
 
 - 🌱 I’m currently learning Full Stack Web-Development  
