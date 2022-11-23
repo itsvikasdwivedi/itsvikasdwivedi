@@ -12,6 +12,8 @@
  
   
 <br/><br/><br/>
+- 🙋‍♂️ All about me is [Click Here](https://dev-vikas-portfolio.netlify.app/) 
+
 - 🔭 I’m currently working on [Something Very Cool](https://github.com/shivraj32644/Olx-Clone)  
   
 
@@ -21,8 +23,7 @@
 - ❓ Ask me about anything related to MERN Stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+- ⚡ Fun fact: I use tabs over spaces
 
 <br/>  
 
