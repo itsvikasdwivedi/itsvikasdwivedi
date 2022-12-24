@@ -14,7 +14,7 @@
 <br/><br/><br/>
 - 🙋‍♂️ All about me is [Here](https://dev-vikas-portfolio.netlify.app/)
 
-- 🔭 I’m currently working on [Something Very Cool](https://github.com/shivraj32644/Olx-Clone)  
+- 🔭 I’m currently working on [Something Very Cool]([https://github.com/shivraj32644/Olx-Clone](https://github.com/Akshaypareek01/Netmeds_Full-stack))  
   
 
 - 🌱 I’m currently learning Full Stack Web-Development  
