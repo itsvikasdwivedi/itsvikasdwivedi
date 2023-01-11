@@ -12,7 +12,7 @@
  
   
 <br/><br/><br/>
-- 🙋‍♂️ All about me is [Here](https://dev-vikas-portfolio.netlify.app/)
+- 🙋‍♂️ All about me is [Here](https://vikas-dwivedi.netlify.app/)
 
 - 🔭 I’m currently working on [Something Very Cool](https://github.com/Akshaypareek01/Netmeds_Full-stack)  
   
