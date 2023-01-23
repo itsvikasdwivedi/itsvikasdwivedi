@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vikas Dwivedi</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Vikas Dwivedi</h1>
 
 
 ### <div align="center">An Aspiring Full Stack Web Developer who is passionate about making open-source more accessible, creating technology more accessible, and building community.
@@ -92,7 +92,7 @@
 <br/>  
 
 
-## Connect with me  
+## Connect with me  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 <div align="center">
 <a href="https://github.com/itsvikasdwivedi" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -116,6 +116,11 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=itsvikasdwivedi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+[![Vikas's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=itsvikasdwivedi&theme=tokyonight)](https://git.io/praveenscience)
+
+| ![Vikas's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Vikas GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsvikasdwivedi&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsvikasdwivedi&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=itsvikasdwivedi&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
 ## Recent Blog Posts  
