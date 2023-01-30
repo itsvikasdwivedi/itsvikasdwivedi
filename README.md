@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Vikas Dwivedi</h1>
 
 
-### <div align="center">An Aspiring Full Stack Web Developer who is passionate about making open-source more accessible, creating technology more accessible, and building community.
+### <div align="center">Full Stack Web Developer who is passionate about making open-source more accessible, creating technology more accessible, and building community.
 </div> 
 
 
