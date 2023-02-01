@@ -120,7 +120,6 @@
 </tr>
 </table>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=itsvikasdwivedi&bg_color=271a47&color=2205ff&line=183ccd&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>  
 <br/>  
