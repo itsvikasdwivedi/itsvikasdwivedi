@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Vikas Dwivedi</h1>
 
 
-### <div align="center">Full Stack Web Developer who is passionate about making open-source more accessible, creating technology more accessible, and building community.
+### <div align="center">Full Stack Web Developer who is passionate about making open-source more accessible, creating technology more accessible, and building community.I'd love a position where I can use my skills to make an impact that I can see with my own eyes. I have been honing my web development skills and looking for a position where I can continue to exercise those skills
 </div> 
 
 
@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on [Something Very Cool](https://github.com/itsvikasdwivedi/Crypto-App)  
   
 
-- 🌱 I’m currently learning Full Stack Web-Development  
+- 🌱 I’m currently learning Next JS  
   
 
 - ❓ Ask me about anything related to MERN Stack and related technologies  
