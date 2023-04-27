@@ -14,7 +14,7 @@
 <br/><br/><br/>
 - 🙋‍♂️ All about me is [Here](https://vikas-dwivedi.netlify.app/)
 
-- 🔭 I’m currently working on [Something Very Cool](https://github.com/itsvikasdwivedi/Crypto-App)  
+- 🔭 I’m currently working on [Something Very Cool](https://github.com/itsvikasdwivedi/pokedex-app)  
   
 
 - 🌱 I’m currently learning Next JS  
