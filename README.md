@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Vikas Dwivedi</h1>
 
 
-### <div align="left">Full Stack Web Developer who is passionate about making open-source more accessible, creating technology more accessible, and building community.I'd love a position where I can use my skills to make an impact that I can see with my own eyes. I have been honing my web development skills and looking for a position where I can continue to exercise those skills
+### <div align="left">Full Stack Web Developer known for creating dynamic, user-friendly applications. Collaborative team player with a track record of delivering high-quality solutions. Eager to contribute to innovative projects and drive technological advancements. I'd love a position where I can use my skills to make an impact that I can see with my own eyes. I have been honing my web development skills and looking for a position where I can continue to exercise those skills
 </div> 
 
 
